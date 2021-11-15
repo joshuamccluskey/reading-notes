@@ -1,4 +1,4 @@
-# This is my Heading for my Reading Notes Page This is an h1 in html
+# Joshua McCluskey's Code Fellows Reading Notes Page
 
 ## This is a blerb about me. 
 
