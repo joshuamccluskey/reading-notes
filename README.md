@@ -1,18 +1,30 @@
-# Joshua McCluskey's Code Fellows Reading Notes Page
+# Code Fellows Reading Notes Page
 
-## This is a blerb about me. 
+## Learning and Loving Every Minute
 
-I am Josh. I like to code in Javascript. JS!
 
-This would be a heading 2 or h2  in html
+! [Josh McCluskey](https://imgur.com/a/vLN3xt9)
+### Joshua McCluskey
 
-### This is how I will keep myself in a growth mindset
+I am Josh. I'm an Air Force vet that is growing and developing into software engineer. I love breaking down and learning foreign languages, and my skills translate well in the tech industry. It was after continuing my career in the federal government that I found inefficencies that could be automated and eliminated with technology. I want to make my world better.
 
-* Keep Learning
-* Do this
-* Do that
+Hit me up:
 
-###### h6
+[GitHub](https://github.com/joshuamccluskey)
+[LinkedIn](https://www.linkedin.com/in/joshua-mccluskey/)
+[Email](jpiiff57@gmail.com)
+[Website](https://www.joshmccluskey.com)
+
+### Ny Growth Mindset Mottos:
+
+* Keep a positive attitude and progress
+* Be disciplined, pesistent, and consistent 
+* Stay humble and adapt
+* Failing ~~isn't~~ __is__ amazing; embrace it and grow from it
+
+#### Thougts Growth Mindset:
+
+**Stay true to yourself**, but be open to the environment that is around you. **Progress is not easy**, and it test you. **Keep looking up and ahead**, and use `git config` .  *Be disciplined, pesistent, and consistent* Progress never happened without adapatation. Failing is truly a gift, celebrate it and grow.
 
 
 
