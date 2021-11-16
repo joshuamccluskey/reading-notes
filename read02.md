@@ -2,7 +2,7 @@
 ## Read: 02
 ### Joshua McCluskey
 
-### [link](https://joshuamccluskey.github.io/reading-notes/read02)
+### [Live Website Read 02](https://joshuamccluskey.github.io/reading-notes/read02)
 
 ### Choosing A Text Editor
 
