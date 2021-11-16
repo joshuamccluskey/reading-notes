@@ -127,10 +127,72 @@ Linux has no undo
 Man page is your  best friend
 
 
+**chmod** - change permissions of fiel or directory
+
+**ls -ld**  - view permissions for directory
+
+**head**  - view first lines of data
+
+**tail** - view last lines of data
+
+**sort** - order data organize
+
+**nl** - print line number before data (index of line of data)
+
+**wc** - print lines, words, chracters
+
+**cut** - cut data fields and displays diesired lines
+
+**sed** - search and replace data
+
+**uniq** - remove dupolicate lines
+
+**tac**  - print data in reverse order
+
+filters allow to proceess data
+
+man pages - command line options
 
 
+**egrep**- view lines of data which match a pattern specified
 
+**Regular Expression** - A powerful tool to identify specific patterns or pieces of inforamtion. RegEx has saved me  hours of manual office work in my officec  work in harnessing Big Data.
 
+**'>'** - save output to file
+
+**'>>'** - append output of file
+
+**'<'** - read input from file
+
+**2>** - redirect error message
+
+**|** - send output from one program to input of another programn
+
+Streams: command line has 3 streams, STDIN, STDOUT and STDERR.
+
+**top** - view real time processes
+
+**ps** - list of processes
+
+**kill** - end process
+
+**jobs** - display  current jobs
+
+**fg**  - move process to foreground
+
+**ctrl + z** - puse current process and move to background
+
+**#!** - indicates which interperter for script
+
+**echo** - print message
+
+**which** - path to a specific program
+
+**$** - placed before variable name
+
+**date** - prints dates
+
+**if [] then else fi** - conditional statement
 
 
 
