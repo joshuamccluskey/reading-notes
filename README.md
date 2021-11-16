@@ -18,13 +18,13 @@ Hit me up:
 ### Ny Growth Mindset Mottos:
 
 * Keep a positive attitude and progress
-* Be disciplined, pesistent, and consistent 
+* Be disciplined, presistent, and consistent 
 * Stay humble and adapt
 * Failing ~~isn't~~ __is__ amazing; embrace it and grow from it
 
 #### Thougts Growth Mindset:
 
-**Stay true to yourself**, but be open to the environment that is around you. **Progress is not easy**, and it test you. **Keep looking up and ahead**, and use `git config` .  *Be disciplined, pesistent, and consistent* Progress never happened without adapatation. Failing is truly a gift, celebrate it and grow.
+**Stay true to yourself**, but be open to the environment that is around you. **Progress is not easy**, and it test you. **Keep looking up and ahead**, and use `git config` .  *Be disciplined, presistent, and consistent* Progress never happened without adapatation. Failing is truly a gift, celebrate it and grow.
 
 
 
