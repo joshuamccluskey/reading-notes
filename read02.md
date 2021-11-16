@@ -35,4 +35,105 @@
 Everyone will have a preference but the best one meets the 4 criteria above and your preference and the system that you are using
 
 
+##Terminal Cheat Sheet
+
+####Find Mac Terminal:
+    Terminal under Applications -> Utilities
+    
+####Find Linux Terminal:
+    Applications -> System or Applications -> Utilities
+   
+####Find Windows Terminal:
+Download putty: [link](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+Shell  - Within terminal defines how the terminal will behave and executes commands
+
+**BASH** - Bourne Again Shell a common terminal
+
+##Use the up and down arrows to go through previous commands written so you don't have to retype a command. Use left and right arrows to edit these commands
+
+**pwd** - Print Working Directory tells you where your located in a directory
+
+**ls** - lists out contents in your current location
+
+**-l** - long listeing
+
+**( - )** - normal file or directory 
+
+**/etc** - lists the directories contents
+ 
+###absolute and relative paths
+ 
+* Relative path
+ * A file or directory location relative to current location in the file system.
+* Absolute path
+ * A file or directory located relative to the root of the file system.
+
+**cd**- change directories move to other directories
+
+**'' ""** - quotes are a single item
+
+**'\'** - is an escape or nullify the next chracter (I used the back slash writing this markdown and it  put the rest of my string in bold, so I had  to put the backslash in quotes to disable its function to nullify or escape my bold function)
+
+**file** - obtain informatiokn  about what file and type
+
+**ls-a** - list contents of directoery and hidden files
+
+Everything is a file in Linux
+Linux files don't need extensions
+Linus is case sensitive
+
+**vi** - text editor  for the command line allows to view and edit files
+
+**ZZ** - save and exit
+
+**:q!** - discard all  changes
+
+**:w** - sane no exit
+
+**:wq** - save and exit
+
+**cat**  concantenate join files together
+
+**less** - allows you to view large file in with arrows and space bar to go to next page b is for back and q is for quit
+
+
+
+
+**man** - command to look up every command
+
+**q** - exit man
+
+**man -k** - search manual for commands
+
+**'back slash' then term** =-  in manual page search for a term
+ 
+ 
+ **n** - search next item found
+ 
+ **mkdir** - makes a directory
+ 
+ **rmdir** - removes or deletes directory
+ 
+ **cp** - copies file or directory
+ 
+ **mv**  - move file ordirectory
+ 
+ **rm** - remove file 
+
+
+Linux has no undo
+
+Man page is your  best friend
+
+
+
+
+
+
+
+
+
+
+
 
