@@ -3,7 +3,7 @@
 ## Learning and Loving Every Minute
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vLN3xt9"  ><a href="//imgur.com/a/vLN3xt9">Me</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Josh McCluskey](https://imgur.com/a/vLN3xt9)
 ### Joshua McCluskey
 
 I am Josh. I'm an Air Force vet that is growing and developing into software engineer. I love breaking down and learning foreign languages, and my skills translate well in the tech industry. It was after continuing my career in the federal government that I found inefficencies that could be automated and eliminated with technology. I want to make my world better.
