@@ -2,6 +2,8 @@
 ## Read: 02
 ### Joshua McCluskey
 
+### [link](https://joshuamccluskey.github.io/reading-notes/read02)
+
 ### Choosing A Text Editor
 
 #### A The different classifications of text editors:
@@ -50,7 +52,7 @@ Shell  - Within terminal defines how the terminal will behave and executes comma
 
 **BASH** - Bourne Again Shell a common terminal
 
-##Use the up and down arrows to go through previous commands written so you don't have to retype a command. Use left and right arrows to edit these commands
+## Use the up and down arrows to go through previous commands written so you don't have to retype a command. Use left and right arrows to edit these commands
 
 **pwd** - Print Working Directory tells you where your located in a directory
 
