@@ -2,11 +2,10 @@
 
 ## Learning and Loving Every Minute
 
-
-![Josh McCluskey](https://imgur.com/a/vLN3xt9)
+![Imgur](https://i.imgur.com/ERXyM5D.jpg)
 ### Joshua McCluskey
 
-I am Josh. I'm an Air Force vet that is growing and developing into software engineer. I love breaking down and learning foreign languages, and my skills translate well in the tech industry. It was after continuing my career in the federal government that I found inefficencies that could be automated and eliminated with technology. I want to make my world better.
+I'm Josh, and I'm an Air Force vet that is growing and developing into a software engineer. I love breaking down and learning foreign languages, and my skills translate well in the tech industry. During my career in the federal government, I found inefficencies that could be automated and eliminated with technology in order to save time and taxpayer dollars. I want to help as many people around me through using technology.
 
 Hit me up:
 
@@ -26,11 +25,8 @@ Hit me up:
 
 **Stay true to yourself**, but be open to the environment that is around you. **Progress is not easy**, and it test you. **Keep looking up and ahead**, and use `git config` .  *Be disciplined, presistent, and consistent* Progress never happened without adaptation. Failing is truly a gift, celebrate it and grow.
 
-
-
-## Table of Contents Reading Notes 
+## Table of Contents Reading Notes
 
 - [Read 01: Learning Markdown](read01.md)
 - [Read 02: The Coder's Computer](read02.md)
 - [Read 03: Revisions and the Cloud](read03.md)
-

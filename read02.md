@@ -46,7 +46,7 @@ Everyone will have a preference but the best one meets the 4 criteria above and 
     Applications -> System or Applications -> Utilities
    
 #### Find Windows Terminal:
-Download putty: [link](https://ryanstutorials.net/linuxtutorial/commandline.php)
+Download: [Putty](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
 Shell  - Within terminal defines how the terminal will behave and executes commands
 
@@ -64,7 +64,7 @@ Shell  - Within terminal defines how the terminal will behave and executes comma
 
 **/etc** - lists the directories contents
  
-###absolute and relative paths
+### absolute and relative paths
  
 * Relative path
  * A file or directory location relative to current location in the file system.
@@ -198,6 +198,6 @@ Streams: command line has 3 streams, STDIN, STDOUT and STDERR.
 
 
 
-[<== BACK](README.md)
+[<=== BACK](README.md)
 
 
