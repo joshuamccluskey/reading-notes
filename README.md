@@ -28,4 +28,9 @@ Hit me up:
 
 
 
+## Table of Contents Reading Notes 
+
+- [Read 01: Learning Markdown](read01.md)
+- [Read 02: The Coder's Computer](read02.md)
+- [Read 03: Revisions and the Cloud](read03.md)
 
