@@ -1,10 +1,10 @@
-#The Coder's Computer
-##Read: 02
-###Joshua McCluskey
+# The Coder's Computer
+## Read: 02
+### Joshua McCluskey
 
-###Choosing A Text Editor
+### Choosing A Text Editor
 
-####A The different classifications of text editors:
+#### A The different classifications of text editors:
 
 1. Code completion:
   * Suggetions
@@ -28,22 +28,22 @@
   * Greater amount of extensions the better for text editor
   * Add functionaliyt as needed
 
-######Text Editors vs. IDE
+###### Text Editors vs. IDE
  * Text editors edit text
  * IDE is a compliation of features and functions that allow you to do more in one place.
 
 Everyone will have a preference but the best one meets the 4 criteria above and your preference and the system that you are using
 
 
-##Terminal Cheat Sheet
+## Terminal Cheat Sheet
 
-####Find Mac Terminal:
+#### Find Mac Terminal:
     Terminal under Applications -> Utilities
     
-####Find Linux Terminal:
+#### Find Linux Terminal:
     Applications -> System or Applications -> Utilities
    
-####Find Windows Terminal:
+#### Find Windows Terminal:
 Download putty: [link](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
 Shell  - Within terminal defines how the terminal will behave and executes commands
