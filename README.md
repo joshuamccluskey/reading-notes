@@ -23,7 +23,7 @@ Hit me up:
 
 #### Thoughts Growth Mindset:
 
-**Stay true to yourself**, but be open to the environment that is around you. **Progress is not easy**, and it test you. **Keep looking up and ahead**, and use `git config` .  *Be disciplined, persistent, and consistent*, progress never happened without adaptation. Failing is truly a gift, celebrate it and grow.
+**Stay true to yourself**, but be open to the environment that is around you. **Progress is not easy**, and it'll test you. **Keep looking up and ahead**, and use `git config` .  *Be disciplined, persistent, and consistent*, progress never happened without adaptation. Failing is truly a gift, celebrate it and grow.
 
 ## Table of Contents Reading Notes
 
