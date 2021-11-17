@@ -1,20 +1,27 @@
 # Revisions and the Cloud
+
 ## Read 03
+
 ### Joshua McCluskey
 
-#### Version Control:
-A system to track, revisit, record, compare, and changes. 
+#### Version Control
+
+A system to track, revisit, record, compare, and changes.
 
 #### Local version control
+
 Version on your computer
 
-#### Centralized Version Control 
+#### Centralized Version Control
+
 A single server storing all chanded in a Centralized Version Control System facilitates collaboration in a team
 
 #### Distrubuted Version Control
+
 Address single point of failure of the CVS single server and DVCS advantage facilitates back ups and stored in more than one location.
 
 #### Git
+
 - DVCS takes snapshots each time saving a project
 - Local operations changes made save on local disk
 - Tracking chaning always detects file corruption or info loss
@@ -24,26 +31,29 @@ Address single point of failure of the CVS single server and DVCS advantage faci
   - Staged: Fags file's changed version to be committed in the next snapshot
 
 #### Git History
+
 - Open source software project Linux kernel
 - Bitkeeper a DVCS in 2002
 - Linus Travolds begins creating Git
 - Non linear development with multiple branches
 
 #### MAC
+
 Go to terminal and type `git` install if not found
 
 #### Windows
+
 [For Git Download](http://git-scm.com/download/win)
 
 #### Linux
-#### For Fedora:
 
-    $ sudo yum intall git
-    
+#### For Fedora
+
+    sudo yum intall git
+
 #### For Ubuntu
 
-    $ sudo apt-get intall git
-
+    sudo apt-get intall git
 
 #### Customize Git
 
@@ -54,7 +64,7 @@ git config --global user.email "email@email.com"
 
 ```
 
-#### To confirm:
+#### To confirm
 
 ```
 git config --global user.name (should return Name Name)
@@ -63,16 +73,16 @@ git config --global user.email (should return email@email.com)
 
 ```
 
-#### Default text editor:
+#### Default text editor
 
 Configure for your default text editor example below emacs
 
-    $ git config --global core.editor emacs
+    git config --global core.editor emacs
 
 #### Check git settings
 
-    $ git config --list
-    
+    git config --list
+
 #### Git Help...Get it...haha
 
 ```
@@ -94,7 +104,6 @@ man git-command
 
 Go to GitHub and click green button top right of repo youo want to clone and copy and paste url. Ex: `$ git clone https://github.com/test`
 
-
 Clone to different directory `$ git clone https://github.com/test mydirectory`
 
 #### Local Repo
@@ -111,7 +120,6 @@ Tracked: Modified, unmodified, or stages
 
 Untracked: not last snapshot and not in staging area
 
-
 #### Life Cycle of File
 
 - Git flags file modified
@@ -120,44 +128,41 @@ Untracked: not last snapshot and not in staging area
 
 #### Check Status
 
-    $ git status
-    
-    
+    git status
+
 #### Tracking and Staging New File
 
 Single File: `git add filename`
 
 All Files: `$ git add *`
 
-
 #### Committing a File
 
-    $ git commit -m “made change x,y,z”
-    
+    git commit -m “made change x,y,z”
+
 #### Committing all changes
 
-    $ git commit -a
-    
+    git commit -a
+
 #### Pushing Changes
 
-    $ git push origin master
- 
- #### Pushes from local *master* branch to remote repo *origin*
- 
+    git push origin master
+
+#### Pushes from local *master* branch to remote repo *origin*
+
  Not Sure of Committing then Stash
  Stash it and revist with apply
- 
+
      git stash
      
      git stash apply
- 
+
 #### Seeing Your Remotes
 
     git remote
-    
-    
+
 #### View all remote
 
     git remote -v
-    
-[<=== BACK](README.md)
+
+[<== BACK](README.md)

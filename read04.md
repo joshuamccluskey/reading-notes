@@ -1,5 +1,7 @@
 # Structure Web Pages with HTML
+
 ## Read 04
+
 ### Joshua McCluskey
 
 #### Wireframe and Design
@@ -11,14 +13,14 @@
 - Paper and pencil good for the inital stages
 - Paper prototypes can test at every stage of ideation and design
 - Switiching to software in later stages
-- 
-    * Wireframe > Interactive Prototype > Visual > Design
-    * Sketch > Code
-    * Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
-    * Sketch > Wireframe > Visual > Code
+-
+  - Wireframe > Interactive Prototype > Visual > Design
+  - Sketch > Code
+  - Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
+  - Sketch > Wireframe > Visual > Code
 
-- Do your research 
-- Develop user personas 
+- Do your research
+- Develop user personas
 - Define Use Cases
 - Industry and market research
 - Make sure user flow is mapped out user flows or information archietechture
@@ -59,6 +61,7 @@
   </body>
 </html>
 ```
+
 - Images `<img src="https://i.imgur.com/ERXyM5D.jpg" alt="My Photo title="source: imgur.com" />`
 
 - Marking up text for headings `<h1></h1>` replace number for desired heading
@@ -82,4 +85,4 @@ Benefits of Semnatic Markup
 - Semanitc naming proper naming of element
 - There are roughly 100 Semantic element
 
-[<=== BACK](README.md)
+[<== BACK](README.md)
