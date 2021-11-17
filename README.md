@@ -5,7 +5,7 @@
 ![Imgur](https://i.imgur.com/ERXyM5D.jpg)
 ### Joshua McCluskey
 
-I'm Josh, and I'm an Air Force vet that is growing and developing into a software engineer. I love breaking down and learning foreign languages, and my skills translate well in the tech industry. During my career in the federal government, I found inefficencies that could be automated and eliminated with technology in order to save time and taxpayer dollars. I want to help as many people around me through using technology.
+I'm Josh, and I'm an Air Force vet that is growing and developing into a software engineer. I love breaking down and learning foreign languages, and my skills translate well in the tech industry. During my career in the federal government, I found inefficiencies that could be automated and eliminated with technology in order to save time and taxpayer dollars. I want to help as many people around me through using technology.
 
 Hit me up:
 
@@ -17,13 +17,13 @@ Hit me up:
 ### My Growth Mindset Mottos:
 
 * Keep a positive attitude and progress
-* Be disciplined, presistent, and consistent 
+* Be disciplined, persistent, and consistent 
 * Stay humble and adapt
 * Failing ~~isn't~~ __is__ amazing; embrace it and grow from it
 
-#### Thougts Growth Mindset:
+#### Thoughts Growth Mindset:
 
-**Stay true to yourself**, but be open to the environment that is around you. **Progress is not easy**, and it test you. **Keep looking up and ahead**, and use `git config` .  *Be disciplined, presistent, and consistent*, progress never happened without adaptation. Failing is truly a gift, celebrate it and grow.
+**Stay true to yourself**, but be open to the environment that is around you. **Progress is not easy**, and it test you. **Keep looking up and ahead**, and use `git config` .  *Be disciplined, persistent, and consistent*, progress never happened without adaptation. Failing is truly a gift, celebrate it and grow.
 
 ## Table of Contents Reading Notes
 
