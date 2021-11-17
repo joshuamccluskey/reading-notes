@@ -79,7 +79,7 @@ Benefits of Semnatic Markup
 - Screen Readers use it as guide for visually impaired
 - Searching for specific blocks easiers than looking for `<div>`
 - Suggest what the type of data will be used
-- Semanitc naming proper naming of elements
-- There are roughly 100 Semantic elements
+- Semanitc naming proper naming of element
+- There are roughly 100 Semantic element
 
 [<=== BACK](README.md)
