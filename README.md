@@ -30,3 +30,4 @@ Hit me up:
 - [Read 01: Learning Markdown](read01.md)
 - [Read 02: The Coder's Computer](read02.md)
 - [Read 03: Revisions and the Cloud](read03.md)
+- [Read 04: Structure Web Pages with HTML](read04.md)
