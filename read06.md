@@ -36,3 +36,5 @@ Javascript standards:  ECMAScript Language Specification (ECMA-262) ; ECMAScript
 - Varible `var` 
 - `getElementById ('Name') ` retrieve an element by Name
 - `value` a method that returns an input data type
+
+[<=== BACK](README.md)
