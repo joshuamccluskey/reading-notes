@@ -4,7 +4,7 @@
 
 #### Wireframe and Design
 
-- Wireframes widely used in UX Designers based on user research
+- Wireframes widely used by UX Designers based on user research
 - Sounds like storyboarding in animation
 - UX Designers define and plan the design of website, app, or product
 - Software Invision or Balsamiq
