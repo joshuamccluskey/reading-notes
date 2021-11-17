@@ -4,13 +4,13 @@
 
 ### Joshua McCluskey
 
-#### Javascript 
+#### Javascript
 
 - lightwieght
 - interpreted
 - just in time
 - compiled programming language with first class function
-- Mostly used for wedbsites
+- Mostly used for websites
 - Can be used off browser environments with Node.js, Apache Couch CouchDB and adodbe Acrobat
 - Prototyped based
 - multi paradigm
@@ -33,8 +33,8 @@ Javascript standards:  ECMAScript Language Specification (ECMA-262) ; ECMAScript
 - Write javascript in HTML use `<script></script>`
 - Function `function`
 - Name function `function name`
-- Varible `var` 
-- `getElementById ('Name') ` retrieve an element by Name
+- Variable `var`
+- `getElementById ('Name')` retrieve an element by Name
 - `value` a method that returns an input data type
 
 [<=== BACK](README.md)
