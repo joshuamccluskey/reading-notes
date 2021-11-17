@@ -14,7 +14,7 @@ Hit me up:
 [Email](jpiiff57@gmail.com)
 [Website](https://www.joshmccluskey.com)
 
-### Ny Growth Mindset Mottos:
+### My Growth Mindset Mottos:
 
 * Keep a positive attitude and progress
 * Be disciplined, presistent, and consistent 
