@@ -34,3 +34,4 @@ Hit me up:
 * [Read 04: Structure Web Pages with HTML](read04.md)
 * [Read 05: Design Pages with CSS](read05.md)
 * [Read 06: Dynamic Web Pages with JavaScript](read06.md)
+* [Read 06: Programming with JavaScript](read07.md)
