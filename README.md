@@ -1,6 +1,6 @@
 # Code Fellows Reading Notes Page
 
-## Learning and Loving Every Minute
+## Learning and Loving every Minute
 
 ![Imgur](https://i.imgur.com/ERXyM5D.jpg)
 
