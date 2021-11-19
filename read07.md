@@ -72,9 +72,6 @@ Example:
 
 Any unit of code that has a value
 
-
-
-
 #### Functions
 
 - Functions building blocks in JavaScript
