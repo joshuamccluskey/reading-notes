@@ -8,12 +8,12 @@
 
 I'm Josh, and I'm an Air Force vet that is growing and developing into a software engineer. I love breaking down and learning foreign languages, and my skills translate well in the tech industry. During my career in the federal government, I found inefficiencies that could be automated and eliminated with technology in order to save time and taxpayer dollars. I want to help as many people around me through using technology.
 
-Hit me up:
+### Hit me up:
 
-[GitHub](https://github.com/joshuamccluskey)
-[LinkedIn](https://www.linkedin.com/in/joshua-mccluskey/)
-[Email](jpiiff57@gmail.com)
-[Website](https://www.joshmccluskey.com)
+- [GitHub](https://github.com/joshuamccluskey)
+- [LinkedIn](https://www.linkedin.com/in/joshua-mccluskey/)
+- [Email](jpiiff57@gmail.com)
+- [Website](https://www.joshmccluskey.com)
 
 ### My Growth Mindset Mottos
 
@@ -24,9 +24,11 @@ Hit me up:
 
 #### Thoughts Growth Mindset
 
-**Stay true to yourself**, but be open to the environment that is around you. **Progress is not easy**, and it'll test you. **Keep looking up and ahead**, and use `git config` .  *Be disciplined, persistent, and consistent*, progress never happened without adaptation. Failing is truly a gift, celebrate it and grow.
+**Stay true to yourself**, but be open to the environment that is around you. **Progress is not easy**, and it'll test you. **Keep looking up and ahead**, and use `git add` ; `git commit` ; `git push`.  *Be disciplined, persistent, and consistent*, progress never happened without adaptation. Failing is truly a gift, celebrate it and grow.
 
 ## Table of Contents Reading Notes
+
+### Code 102 Reading Notes
 
 * [Read 01: Learning Markdown](read01.md)
 * [Read 02: The Coder's Computer](read02.md)
@@ -36,3 +38,11 @@ Hit me up:
 * [Read 06: Dynamic Web Pages with JavaScript](read06.md)
 * [Read 07: Programming with JavaScript](read07.md)
 * [Read 08: Operators and Loops](read08.md)
+
+### Code 201 Reading Notes
+
+* [Read 01: Introductory HTML and Javascript](read01-2.md)
+* [Read 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions](read02-2.md)
+* [Read 03: HTML Lists, CSS Boxes, JS Control Flow](read03-2.md)
+* [Read 04: HTML Links, CSS Layout, JS Functions](read04-2.md)
+* [Read 05: HTML Images; CSS Clolor & Text](read05-2.md)
