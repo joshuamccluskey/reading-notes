@@ -57,7 +57,6 @@
 - `<header>` `<footer>` appear at top and bottom of page
 - `<nav>`contains the major navigational block of the sit with a unordered list `<ul>`
 - `<article>` used for independent sections. example a page with multiple articles each article will be contained with its own `<article>`
-[<== BACK](README.md)
 - `<aside>` used like a glossary for an article.
 - `<section>` groups related elements together
 - `<hgroup>`  groups a related group of example h1 or like h2
@@ -114,3 +113,5 @@ HTML:
 - Methods contains steps or instructions
 - You script with HTML CSS and JavaScript for a website
 - They all can be added several ways
+
+[<== BACK](README.md)
