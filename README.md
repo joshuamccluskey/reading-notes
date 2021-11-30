@@ -42,7 +42,7 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 ### Code 201 Reading Notes
 
 * [Read 01: Introductory HTML and Javascript](class-01.md)
-* [Read 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions](read02-2.md)
+* [Read 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 * [Read 03: HTML Lists, CSS Boxes, JS Control Flow](read03-2.md)
 * [Read 04: HTML Links, CSS Layout, JS Functions](read04-2.md)
 * [Read 05: HTML Images; CSS Clolor & Text](read05-2.md)

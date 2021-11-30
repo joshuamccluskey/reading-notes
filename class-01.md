@@ -6,7 +6,7 @@
 
 #### Introduction to HTML CSS
 
-- People access the web via a browserslike Chrome, Edge, Safari, Firefox
+- People access the web via a browsers like Chrome, Edge, Safari, Firefox
 - Web servers host the websites
 - Web hosting is a company that charges a fee to host a website.
 - People access the web via moobile, laptop, desktop.
