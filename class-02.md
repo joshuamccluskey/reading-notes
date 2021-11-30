@@ -27,7 +27,6 @@
 - Visual editors are like word processors
 - Code views show you the code of your formatting in the visual editor similar to WordPress sites you write and design visually and then can see the code view to see the backend
 
-
 ##### Bold and Italic , Empahsis
 
 - `<em>` emphasis is made shows in itlaics
@@ -48,7 +47,6 @@
 
 - `<del>` strike through
 - `<s>` the actual strike through
-
 
 ### Ch.3 Introducing CSS
 
@@ -72,20 +70,17 @@
 - Adjacent: Matches elments next to specific elements
 - General Sibling - Matches element of sibling of another
 
-
-### CSS Cascades!!!
+### CSS Cascades
 
 - Priority given to nearest the top
 - You can add `!important;` to over ride order.
-- Inherited values save time for child elements 
+- Inherited values save time for child elements
 
-- External Style Sheets easier to link other pages and use 
+- External Style Sheets easier to link other pages and use
 0
 - There are different versions of CSS
-- Tests site on all browsers 
+- Tests site on all browsers
 - CSS bug or browser quirk if website is not supported fully
-
-
 
 ### Ch.2 Basic JavaScript Instructions
 
@@ -100,7 +95,7 @@
 
 - it allows others and remind yourself of what the code is doing on a revist.
 - `/* Comment here */` Put your comment using this for multiple lines and blocks of code
-- `//` single line 
+- `//` single line
 
 #### Variables
 
@@ -111,17 +106,16 @@
 
 - `let` for dynamic variables
 - `const` for non chaing variables
-- `var` legacy 
+- `var` legacy
 - write in camelCase
 - `=` is an assignment operator
-
 
 #### Datatypes
 
 - numeric
 - string : letters and characters
 - boolean : true or false || 0 or 1
-- store strings with quotes 
+- store strings with quotes
 - You could use double quotes and use single quotes withing double quotes
 - use `\` back slash to **escape** character in order to use a quote within a quote
 
@@ -141,17 +135,72 @@ let name1 = "Joe", name2 = "Jan", name3 = "Jon";
 
 ```
 
-Rules of Naming Variable 
+#### Rules of Naming Variable
 
 - You can't use numbers in the beggining of name
-- case sensitive 
+- case sensitive
 - Name supposed to describe the variable
 - camelCase your name
 
+#### Arrays
 
+- A list of stored values
 
+Array literal prefferred method of an array
 
+```
 
+let food;
+food = ['bread', 'milk', 'eggs'];
+```
 
+Array constructor is another method
+
+```
+
+let food;
+food = ('bread', 
+        'milk', 
+        'eggs');
+```
+
+- Array order is indexed starting from 0 and then 1 then 2 and so on.
+
+- Accessing an array item is via the index number
+
+- Array size is defined by length.
+
+- You can change value of an array by assigning a new value to the indexed value
+
+#### Expression is an assigning a value(s) to a variable
+
+#### Operators allow to have value using multiple values
+
+- Assignment `=`
+- Arithmetic `*` , `+` , `-`, `%`, `/`, `++`, `--`
+- Sting concantenation 'words' + 'words'
+- comparison operators to conclude true false `<=`, `=>`, `!=`, `==`
+- Logical `||` `&&`  `!`
+
+#### Descision and loops
+
+- Descisions determine the line of code to run
+- conditional statements have a condition and if it is true it runs, but if its false it goes to else or else if
+
+- Stuctture of comparison operator `(balance >= savings)`
+
+- operand are expressions that return a single value
+
+- Logical `||` `&&`  `!` return a true or false
+
+- `&&` both must be true
+
+- `||` one or the other could be true
+
+- `!` not true or false. Instead of it stopping when true, it stops when flase.
+
+- if...statement checks if condition is true to run code
+
+- if...else statement if condition is false go to else and run code
 
 [<== BACK](README.md)
