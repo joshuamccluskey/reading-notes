@@ -12,7 +12,7 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 
 - [GitHub](https://github.com/joshuamccluskey)
 - [LinkedIn](https://www.linkedin.com/in/joshua-mccluskey/)
-- [Email](jpiiff57@gmail.com)
+- [Email](mailto:jpiiff57@gmail.com)
 - [Website](https://www.joshmccluskey.com)
 
 ### My Growth Mindset Mottos
