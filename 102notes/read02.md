@@ -197,4 +197,4 @@ Streams: command line has 3 streams, STDIN, STDOUT and STDERR.
 
 **if [] then else fi** - conditional statement
 
-[<== BACK](README.md)
+[<== BACK](reading-notes/README.md)

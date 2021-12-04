@@ -143,4 +143,4 @@ for (variable of object)
 - `new` left hand side expression create instance of user defined object type
 - `super` call object parent.
 
-[<=== BACK](README.md)
+[<=== BACK](reading-notes/README.md)

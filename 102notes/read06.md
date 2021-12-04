@@ -64,4 +64,4 @@ Basic operators: `let x = 1 + 1`
 
 There is an order to operations for operandae JavaScript has an order sequence
 
-[<=== BACK](README.md)
+[<=== BACK](reading-notes/README.md)
