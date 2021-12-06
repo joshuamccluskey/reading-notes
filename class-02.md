@@ -203,4 +203,4 @@ food = ('bread',
 
 - if...else statement if condition is false go to else and run code
 
-[<== BACK](reading-notes/README.md
+[<== BACK](README.md)
