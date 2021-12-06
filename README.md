@@ -30,19 +30,22 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 
 ### Code 102 Reading Notes
 
-* [Read 01: Learning Markdown](102notes/read01.md)
-* [Read 02: The Coder's Computer](102notes/read02.md)
-* [Read 03: Revisions and the Cloud](102notes/read03.md)
-* [Read 04: Structure Web Pages with HTML](102notes/read04.md)
-* [Read 05: Design Pages with CSS](102notes/read05.md)
-* [Read 06: Dynamic Web Pages with JavaScript](102notes/read06.md)
-* [Read 07: Programming with JavaScript](102notes/read07.md)
-* [Read 08: Operators and Loops](102notes/read08.md)
+* [Read 01: Learning Markdown](read01.md)
+* [Read 02: The Coder's Computer](read02.md)
+* [Read 03: Revisions and the Cloud](read03.md)
+* [Read 04: Structure Web Pages with HTML](read04.md)
+* [Read 05: Design Pages with CSS](read05.md)
+* [Read 06: Dynamic Web Pages with JavaScript](read06.md)
+* [Read 07: Programming with JavaScript](read07.md)
+* [Read 08: Operators and Loops](read08.md)
 
 ### Code 201 Reading Notes
 
-* [Read 01: Introductory HTML and Javascript](201notes/class-01.md)
+* [Read 01: Introductory HTML and Javascript](class-01.md)
 * [Read 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
-* [Read 03: HTML Lists, CSS Boxes, JS Control Flow](201notes/class-03.md)
-* [Read 04: HTML Links, CSS Layout, JS Functions](201notes/class-04.md)
-* [Read 05: HTML Images; CSS Clolor & Text](201notes/class-05.md)
+* [Read 03: HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
+* [Read 04: HTML Links, CSS Layout, JS Functions](class-04.md)
+* [Read 05: HTML Images; CSS Clolor & Text](class-05.md)
+* [Read 06: JS Object Literals](class-06.md)
+
+
