@@ -9,7 +9,7 @@
 - Domain modeling is creating a solution for a specific problem
 - Object-Oriented Model: Store data in properties and has behavior as methods
 - Articel say  to write out the code in article see link for reference and citations the follwoing code is not mine
-[Reference link] (https://github.com/codefellows/domain_modeling#domain-modeling)
+[Reference link](https://github.com/codefellows/domain_modeling#domain-modeling)
 
   ```
   // Article says to write out the code in article see link for reference and citations the follwoing code is not mine
