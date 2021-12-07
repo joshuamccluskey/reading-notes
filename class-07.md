@@ -85,6 +85,32 @@ EpicFailVideo.prototype.weeklyLikes = function() {
 
 
 
+
+
+
+
+``` 
+let variable = new Object();
+variable.name
+varibale.age
+variable.hobbies
+
+variable.functionName = function( {
+  return this.name;
+})
+```
+
+### Ch. 3 Functions, Method, and Objects
+
+
+ function that can be set up with multiple objects to call upon, I see this useful when a for is being submitted
+
+syntax of creating an instance
+` let variable = new constructorFunction (arguments)`
+
+- Consrtuctor syntax
+
+
 #### Ch. 6 Tables 
 
 Like Excel and Google Sheets
@@ -99,27 +125,6 @@ Like Excel and Google Sheets
 - `<theads>` column headds use this
 - `<tbody>` main area
 - `<tfoot>` bottom maybe for like a total result
-
-#### Ch. 3 Functions, Method, and Objects
-
-
- function that can be set up with multiple objects to call upon, I see this useful when a for is being submitted
-
-syntax of creating an instance
-` let variable = new constructorFunction (arguments)`
-
-- Consrtuctor syntax
-
-``` 
-let variable = new Object();
-variable.name
-varibale.age
-variable.hobbies
-
-variable.functionName = function( {
-  return this.name;
-})
-```
 
 use `delete` to remove property
 
