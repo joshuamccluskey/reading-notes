@@ -66,6 +66,7 @@ EpicFailVideo.prototype.dailyLikes = function() {
 
 
 ```
+
  // Article says to write out the code in article see link for reference and citations the follwoing code is not mine
   // https://github.com/codefellows/domain_modeling#domain-modeling
 
@@ -78,6 +79,8 @@ EpicFailVideo.prototype.weeklyLikes = function() {
 
   return total;
 }
+
+
 ```
 
 - Create an instance using new keyword and call constructor fucntion

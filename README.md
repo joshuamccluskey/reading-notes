@@ -48,5 +48,4 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 * [Read 05: HTML Images; CSS Clolor & Text](class-05.md)
 * [Read 06: JS Object Literals](class-06.md)
 * [Read 07: HTML Table; JS Constructor Functions](class-07.md)
-
-
+* [Read 08: More CSS Layout](class-08.md)
