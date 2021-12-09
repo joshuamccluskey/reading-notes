@@ -49,3 +49,4 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 * [Read 06: JS Object Literals](/201/class-06.md)
 * [Read 07: HTML Table; JS Constructor Functions](/201/class-07.md)
 * [Read 08: More CSS Layout](/201/class-08.md)
+* [Read 09: Forms and Events](/201/class-09.md)
