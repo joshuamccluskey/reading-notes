@@ -30,7 +30,7 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 
 ### Code 102 Reading Notes
 
-* [Read 01: Learning Markdown](./102/read01.md)
+* [Read 01: Learning Markdown](/102/read01.md)
 * [Read 02: The Coder's Computer](./102/read02.md)
 * [Read 03: Revisions and the Cloud](./102/read02.md103/)
 * [Read 04: Structure Web Pages with HTML](./102/read04.md)
