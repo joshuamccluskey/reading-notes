@@ -60,7 +60,7 @@ Find where the error is
 
 #### Step Through 
 - is something you do when you have an error and you want ot move forwar
-[<== BACK](../README.md)
+
 
 
 - Use a try..catch statement
@@ -68,3 +68,5 @@ Find where the error is
 Try a algorithim if not true then not run or if exception is made then run that code.
 
 ### Typos Typos Typos
+
+[<== BACK](../README.md)
