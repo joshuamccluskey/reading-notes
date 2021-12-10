@@ -113,19 +113,4 @@ Mutation events
 HTML 5 events.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [<== BACK](../README.md)
