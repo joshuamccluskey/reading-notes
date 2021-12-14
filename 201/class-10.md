@@ -6,7 +6,6 @@
 
 #### Ch. 10 Error Handeling And Debugging
 
-
 ### Order of Execution
 
 - first look at where is it being called and executed. The position could fix an error
@@ -30,38 +29,36 @@ If you have something out of order in the satck you could be stuck
 
 1. Prepare
 2. Execute
-   
 
-## Hoisting 
+## Hoisting
 
-THe error happens when the code is called upon before it has been executed for example if you have a nested function 
+THe error happens when the code is called upon before it has been executed for example if you have a nested function
 
 #### Error Objects
 
-Error object: name description 
+Error object: name description
 
 - Syntx error
 - Reference Error
 - Type Error
-- Eval Errror 
-- URI Error 
-- Error 
+- Eval Errror
+- URI Error
+- Error
 - Nan
 - Range Error
 
 
 #### Debug
 
-Find where the error is 
+Find where the error is
 
 #### Set Breakpoints
 
 - You can set breakpoints by clicking to the far left of IDE and and markingline and another line to debug
 
-#### Step Through 
+#### Step Through
+
 - is something you do when you have an error and you want ot move forwar
-
-
 
 - Use a try..catch statement
 
