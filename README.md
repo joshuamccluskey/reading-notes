@@ -54,3 +54,4 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 
 * [Read 12: Canvas](/201/class-12.md)
 * [Read 13: Local Storage](/201/class-13.md)
+* [Read 14: Local Storage](/201/class-14.md)
