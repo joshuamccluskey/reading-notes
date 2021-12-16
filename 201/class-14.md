@@ -1,6 +1,6 @@
 # Psychological safety
 
-## Read 14a
+## Read 14a/b
 
 ### Joshua McCluskey
 
