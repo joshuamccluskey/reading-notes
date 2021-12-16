@@ -14,6 +14,8 @@ Psychological saftey according to the article:
 
 - Overall the thing that is important is that we have to remember that we are all human. It's difficult to quantify what we feel and how that shapes the success of a group. It's the abiulity to empathize and communicate that will allow the group to better work together. We all of have emotions and feelings and we hall have a preception of how things are in a group.The more sensitive a group is to how the overall  feeling and emotion is the better it will be able communicat and accomplish a task.
 
+- I think that no one group is the same. I think that you have to very receptive and preceptive to the feelings, emotions, and preceptions of the people you are working with. You can't treat people the same because we are all different. What unites us is that we all have emotions and the ability to communicate when times are tough. Evenly spreading the workload amongst the group is what I've seen in the past as working, but as I think about it more--it worked for that group in the past. I think that if there  is even opportunity to share and speak and everyone can feel the emotions in a group it will work itself out. There are defintely moments where you have to read the room.
+
 #### CSS Tranforms and Animations
 
 `transform` property is allows for an element movement
