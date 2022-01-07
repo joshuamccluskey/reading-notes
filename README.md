@@ -42,7 +42,6 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 ## Code 201 - Foundations of Software Development
 
 - [Read 01: Introductory HTML and Javascript](/201/class-01.md)
-
 - [Read 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions](/201/class-02.md)
 - [Read 03: HTML Lists, CSS Boxes, JS Control Flow](/201/class-03.md)
 - [Read 04: HTML Links, CSS Layout, JS Functions](/201/class-04.md)
