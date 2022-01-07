@@ -1,6 +1,6 @@
 # Putting it all together
 
-## Read Class 02
+## Read Class 05
 
 ### Joshua McCluskey
 

@@ -1,6 +1,6 @@
 # Passing Functions as Props
 
-## Read Class 02
+## Read Class 03
 
 ### Joshua McCluskey
 
