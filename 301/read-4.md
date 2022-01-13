@@ -22,6 +22,8 @@ Have the handler function based on the input's name and perform actions based on
 
 #### Why would we use a ternary operator?
 
+It's shorter than writing out a multi line if statement into one line.
+
 It is a conditional statement with a true false outcome.
 __WTF__ syntax: **W**hat's the condition `?` **T**rue output `:` **F**alse output `;`
 
