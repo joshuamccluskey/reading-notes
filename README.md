@@ -64,5 +64,6 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 04: React and Forms](/301/read-4.md)
 - [Read 05: Putting it all together](/301/read-5.md)
 - [Read 06: NODE.JS](/301/read-6.md)
+- [Read 07: REST](/301/read-7.md)
 
 ## Code 401 - Advanced Software Development
