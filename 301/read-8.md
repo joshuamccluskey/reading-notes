@@ -4,7 +4,6 @@
 
 ### Joshua McCluskey
 
-
 - What does REST stand for?
   Representationa state transfer (REST) an aproach to desigining web services
   
@@ -17,7 +16,7 @@ It uses URIs as they uniquely identify that resource -- like a URL.
   `GET` ;`POST`;`PUT`; `PATCH`; `DELETE`
 
 - What should the URIs be based on?
-  A consistenet naming convention. Use Plurals for collections. Use ID numbers 
+  A consistenet naming convention. Use Plurals for collections. Use ID numbers
 
 - Give an example of a good URI.
   /Items/8
