@@ -66,5 +66,6 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 06: NODE.JS](/301/read-6.md)
 - [Read 07: REST](/301/read-7.md)
 - [Read 08: APIs](/301/read-8.md)
+- [Read 09: Functional Programming](/301/read-9.md)
 
 ## Code 401 - Advanced Software Development
