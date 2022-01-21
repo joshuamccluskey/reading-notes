@@ -1,6 +1,6 @@
 # Functional Programming
 
-## Read Class 08
+## Read Class 09
 
 ### Joshua McCluskey
 
