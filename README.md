@@ -68,5 +68,6 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 08: APIs](/301/read-8.md)
 - [Read 09: Functional Programming](/301/read-9.md)
 - [Read 010: In Memory Stroage](/301/read-10.md)
+- [Read 011: Mongo and Mongoose](/301/read-11.md)
 
 ## Code 401 - Advanced Software Development
