@@ -69,6 +69,6 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 09: Functional Programming](/301/read-9.md)
 - [Read 10: In Memory Stroage](/301/read-10.md)
 - [Read 11: Mongo and Mongoose](/301/read-11.md)
-- [Read 12: Mongo and Mongoose](/301/read-12.md)
+- [Read 12: CRUD](/301/read-12.md)
   
 ## Code 401 - Advanced Software Development
