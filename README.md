@@ -2,7 +2,7 @@
 
 ## Learning and Loving every Minute
 
-![Josh and Tilly in the Snow](/img/edit-11.jpg)
+![Josh and Tilly in the Snow](img/edit-11.png)
 
 ### Joshua McCluskey
 
