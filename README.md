@@ -74,3 +74,9 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 15: Authentication](/301/read-15.md)
 
 ## Code 401 - Advanced Software Development
+
+- [Read 01: Java Basics](/401/read01.md)
+- [Read 02: Arrays, Loops, Imports](/401/read02.md)
+- [Read 03: Maps, primitives, File I/O](/401/read03.md)
+- [Read 04: OOP](/401/read04.md)
+- [Read 05: Linked Lists](/401/read05.md)
