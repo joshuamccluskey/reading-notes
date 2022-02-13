@@ -75,6 +75,7 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 
 ## Code 401 - Advanced Software Development
 
+- [Terminal](/401/terminal.md)
 - [Read 01: Java Basics](/401/read01.md)
 - [Read 02: Arrays, Loops, Imports](/401/read02.md)
 - [Read 03: Maps, primitives, File I/O](/401/read03.md)
