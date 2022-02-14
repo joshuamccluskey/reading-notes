@@ -77,6 +77,7 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 
 - [Terminal](/401/terminal.md)
 - [The Growth Mindset](/401/growth.md)
+- [Intro to SQL](/401/sql.md)
 - [Read 01: Java Basics](/401/read01.md)
 - [Read 02: Arrays, Loops, Imports](/401/read02.md)
 - [Read 03: Maps, primitives, File I/O](/401/read03.md)
