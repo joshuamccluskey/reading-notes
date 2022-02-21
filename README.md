@@ -83,3 +83,9 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 03: Maps, primitives, File I/O](/401/read03.md)
 - [Read 04: OOP](/401/read04.md)
 - [Read 05: Linked Lists](/401/read05.md)
+- [Read 06: Inheritance and Interfaces](/401/read06.md)
+- [Read 07: Inheritance day 2](/401/read07.md)
+- [Read 08: OO Design](/401/read08.md)
+- [Read 09: WRRC Java](/401/read09.md)
+- [Read 10: Stacks and Queues](/401/read10.md)
+
