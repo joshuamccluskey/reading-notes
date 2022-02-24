@@ -1,6 +1,6 @@
 # Inheritance and Interfaces Day 2
 
-## Read 06
+## Read 07
 
 ### Joshua McCluskey
 

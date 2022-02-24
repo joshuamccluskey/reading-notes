@@ -1,5 +1,11 @@
 # OO Design 
 
+## Read 08
+
+### Joshua McCluskey
+
+#### Inheritance
+
 - YAGNI: 
   - You aren't gonna need it - Don't add functionality until it is needed. Do it as you need them.
 - Rule of three: 
