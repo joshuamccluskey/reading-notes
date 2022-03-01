@@ -89,4 +89,5 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 09: WRRC Java](/401/read09.md)
 - [Read 10: Stacks and Queues](/401/read10.md)
 - [Read 11: Spring](/401/read11.md)
+- [Read 12: Spring RESTful Routing & Static Files](/401/read12.md)
 
