@@ -90,4 +90,5 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 10: Stacks and Queues](/401/read10.md)
 - [Read 11: Spring](/401/read11.md)
 - [Read 12: Spring RESTful Routing & Static Files](/401/read12.md)
+- [Read 13: Related Resources and Integration Testing](/401/read13.md)
 
