@@ -94,4 +94,5 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 14: BCrypt](/401/read14.md)
 - [Read 15: Trees](/401/read15.md)
 - [Read 16: Spring Authentication](/401/read16.md)
+- [Read 17: Spring Authorization](/401/read17.md)
 
