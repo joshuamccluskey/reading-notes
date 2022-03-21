@@ -97,4 +97,5 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 17: Spring Authorization](/401/read17.md)
 - [Read 18: Web App Security](/401/read18.md)
 - [Read 19: Spring and Sockets](/401/read19.md)
+- [Read 26: Android Fundementals](/401/read26.md)
 
