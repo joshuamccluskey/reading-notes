@@ -99,4 +99,4 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 19: Spring and Sockets](/401/read19.md)
 - [Read 26: Android Fundementals](/401/read26.md)
 - [Read 27: Intents, Activities, and SharePreference](/401/read27.md)
-
+- [Read 28: Intents, Activities, and SharePreference](/401/read28.md)
