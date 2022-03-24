@@ -1,4 +1,4 @@
-# Intents, Activities, and SharedPreferences
+# RecyclerView
 
 ## Read 28
 
