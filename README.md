@@ -101,4 +101,4 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 27: Intents, Activities, and SharePreference](/401/read27.md)
 - [Read 28: RecyclerView](/401/read28.md)
 - [Read 29: Room](/401/read29.md)
-- [Read 23: HasshTables](/401/read30.md)
+- [Read 30: HasshTables](/401/read30.md)
