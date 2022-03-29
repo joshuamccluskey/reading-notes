@@ -103,3 +103,4 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 29: Room](/401/read29.md)
 - [Read 30: HasshTables](/401/read30.md)
 - [Read 31: Espresso](/401/read31.md)
+- [Read 32: Serverless And Amplify](/401/read32.md)
