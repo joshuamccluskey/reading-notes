@@ -124,14 +124,16 @@ type Comment @model {
 - `@aws_auth`
 - `@aws_subscribe`
 
-### #rd party directives
+### 3rd party directives
 
 - `@algolia` serverless search to Amplify
 - `@ttl` auto delete features in Amplify
 - `@firehose` simple interceptor for mutations and quereies
 - `@retain` enables for DynamoDB
 
-## Things I want to know more about
+### Things I want to know more about
+
+- AWS way of authentication and authorization
 
 #### Reading
 
