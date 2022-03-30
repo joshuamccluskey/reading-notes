@@ -1,6 +1,6 @@
 # Serverless And Amplify
 
-## Read 31
+## Read 32
 
 ### Joshua McCluskey
 
