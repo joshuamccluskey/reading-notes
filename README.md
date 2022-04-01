@@ -106,4 +106,5 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 32: Serverless And Amplify](/401/read32.md)
 - [Read 33: GraphQL](/401/read33.md)
 - [Read 34: Monetization](/401/read34.md)
+- [Read 35: Graphs](/401/read35.md)
 
