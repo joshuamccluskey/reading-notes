@@ -1,5 +1,5 @@
 # Cognito
-## Read 35
+## Read 36
 
 ### Joshua McCluskey
 
@@ -12,7 +12,7 @@
 - It supports OAuth 2.0, SAML 2.0 and Open ID connect
 - You can implement the following to get it set up
 - You start with the CLI and inputting `amplify add auth`
-- add the dependencies 
+- add the dependencies
 - Cognito is in  compliance with security and compliance to laws on personal information
 ````Java
 dependencies {
