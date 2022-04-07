@@ -59,7 +59,7 @@ Intent result = new Intent("com.example.RESULT_ACTION", Uri.parse("content://res
 setResult(Activity.RESULT_OK, result);
 finish();
 ````
-- [credit](https://developer.android.com/training/basics/intents/filters
+- [credit](https://developer.android.com/training/basics/intents/filters)
 
 
 
