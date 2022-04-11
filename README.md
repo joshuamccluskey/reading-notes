@@ -111,4 +111,5 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 37: Amazon S3](/401/read37.md)
 - [Read 38: Intent Filters](/401/read38.md)
 - [Read 39: Location](/401/read39.md)
+- [Read 41: Analytics and Text-To-Speech](/401/read41.md)
 
