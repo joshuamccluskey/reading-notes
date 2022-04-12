@@ -112,4 +112,6 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 38: Intent Filters](/401/read38.md)
 - [Read 39: Location](/401/read39.md)
 - [Read 41: Analytics and Text-To-Speech](/401/read41.md)
+- [Read 42: Monetization and AdMob Ads](/401/read42.md)
+- [Read 43: OSS Contribution](/401/read43.md)
 
