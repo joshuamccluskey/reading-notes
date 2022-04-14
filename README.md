@@ -114,4 +114,5 @@ I'm Josh, and I'm an Air Force vet that is growing and developing into a softwar
 - [Read 41: Analytics and Text-To-Speech](/401/read41.md)
 - [Read 42: Monetization and AdMob Ads](/401/read42.md)
 - [Read 43: OSS Contribution](/401/read43.md)
+- [Read 44: Ethics in Tech](/401/read44.md)
 
